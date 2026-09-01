@@ -1,0 +1,8 @@
+{"input": "", "expect": true, "task": "isogram", "lang": "python"}
+{"input": "isogram", "expect": true, "task": "isogram", "lang": "python"}
+{"input": "eleven", "expect": false, "task": "isogram", "lang": "python"}
+{"input": "zzyzx", "expect": false, "task": "isogram", "lang": "python"}
+{"input": "subdermatoglyphic", "expect": true, "task": "isogram", "lang": "python"}
+{"input": "Alphabet", "expect": false, "task": "isogram", "lang": "python"}
+{"input": "alphAbet", "expect": false, "task": "isogram", "lang": "python"}
+{"input": "thumbscrew-japingly", "expect": true, "task": "isogram", "lang": "python"}
